@@ -3,7 +3,7 @@
 <h3 align="center">Data Engineer </h3>
 
 
-- 🌱 I’m currently learning **AWS Components **
+- 🌱 I’m currently learning **AWS Components**
 
 - 🤝 I’m looking for help with **Job**
 
