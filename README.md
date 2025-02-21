@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **AWS Components**
 
-- 🤝 I’m looking for help with **Job**
+- 🤝 I’m looking for help with **Data Engineer Job**
 
 - 💬 Ask me about **SQL,python and Cloud Infrastructures**
 
-- 📫 How to reach me **guruanagandhula123@gmail.com**
+- 📫 How to reach me **gurumurthy01081998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
