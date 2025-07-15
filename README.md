@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Data Engineer Job**
  
-- 💬 Ask me about **SQL,python and Cloud Infrastructures**
+- 💬 Ask me about **SQL,python, AWS and Azure**
 
 - 📫 How to reach me **gurumurthy01081998@gmail.com**
 
